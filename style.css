@@ -1,0 +1,51 @@
+.title {
+    justify-content: center;
+    text-align: center;
+    font-size: 24px;
+    color:  #FFD700;
+}
+#body{
+    background-color: #002366 ;
+}
+/* Style the navigation menu */
+nav {
+    background-color: #8B0000; /* Example background color */
+    padding: 10px; /* Spacing around the navigation */
+}
+
+nav ul {
+    list-style: none; /* Remove default list bullets */
+    padding: 0; /* Remove default padding */
+    margin: 0; /* Remove default margin */
+    display: flex; /* Arrange list items horizontally */
+    justify-content: center; /* Center the list items horizontally */
+}
+
+nav ul li {
+    margin: 0 15px; /* Spacing between list items */
+}
+
+nav ul li a {
+    text-decoration: none; /* Remove underline from links */
+    color: #fff; /* Text color for links */
+    padding: 10px 15px; /* Padding around links */
+    display: block; /* Make links fill the list item */
+}
+
+nav ul li a:hover {
+    background-color: #555; /* Background color on hover */
+}
+#latest{
+    color:  #FFD700;
+    justify-content: center;
+    text-align: center;
+    font-size: 20px;
+}
+#header1{
+    color:  #FFFFFF;
+}
+#p1{
+    color:  #85ce26;
+    text-align: justify;
+    font-size: 11px;
+}

@@ -38,9 +38,6 @@ Basic understanding of HTML, CSS, and JavaScript.
 Installation
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/your-username/football-club-website.git
 Navigate to the project directory:
 
 bash
